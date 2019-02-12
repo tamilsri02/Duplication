@@ -1,0 +1,7 @@
+REFERENCE DESCRIPTION                             REASON                        
+112806    Clothes for Richard de Vries            Duplicate Record              
+112806    Tickets from Richard Bakker             Duplicate Record              
+112806    Clothes for Willem Dekker               Duplicate Record              
+167875    Tickets from Erik de Vries              End Balance not macthed       
+165102    Tickets for Rik Theuﬂ                   End Balance not macthed       
+COUNT     5
